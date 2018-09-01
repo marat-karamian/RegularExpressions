@@ -28,7 +28,7 @@ public class Phone {
         if (matcher.matches()) {
             System.out.println("\nPhone number '" + phoneNumber + "' is correct");
         } else {
-            System.out.println("\nPhone nubmer '" + phoneNumber + "' is incorrect");
+            System.out.println("\nPhone number '" + phoneNumber + "' is incorrect");
         }
 
     }
